@@ -29,8 +29,8 @@ Tap the numbers and arithmetic buttons to input your calculation.
 Tap the "=" button to see the result.
 Tap the "C" button to clear the display.
 ## Technologies Used
-React Native
-Expo
+- React Native
+- Expo
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
