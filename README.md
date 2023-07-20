@@ -28,7 +28,7 @@ The calculator displays the current input and result.
 Tap the numbers and arithmetic buttons to input your calculation.
 Tap the "=" button to see the result.
 Tap the "C" button to clear the display.
-##Technologies Used
+## Technologies Used
 React Native
 Expo
 
